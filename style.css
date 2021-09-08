@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://cdn.wallpapersafari.com/50/68/RNCEay.jpg");
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: indigo;
+}
+
+#camera {
+    border: 2px double;
+    width: 355px;
+    height: 300px;
+}
+
+.heading {
+    width: 80%;
+    font-size: 25px;
+}
+
+.name_of_objects {
+    color: white;
+}
+
